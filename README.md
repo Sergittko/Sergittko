@@ -13,7 +13,7 @@
 ### ✌🏼Me in instagram: @sergio_d_10
 ---
 ### 👾My projects on GitHub pages:
-*Adaptive layout, using ReastAPI: [test-project.io](https://sergittko.github.io/test-pet-project/)
+* Adaptive layout, using ReastAPI: [test-project.io](https://sergittko.github.io/test-pet-project/)
 ---
 <!--
 Here are some ideas to get you started:
