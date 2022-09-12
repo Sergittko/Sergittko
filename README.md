@@ -14,6 +14,7 @@
 ---
 ### 👾My projects on GitHub pages:
 *Adaptive layout, using ReastAPI: [test-project.io](https://sergittko.github.io/test-pet-project/)
+---
 <!--
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
