@@ -12,7 +12,7 @@
 #### :e-mail:My mail: derov180214@gmail.com
 #### :v:Me in instagram: @sergio_d_10
 ---
-### :sassy_man:My projects on GitHub pages:
+#### My projects on GitHub pages:
 * Adaptive layout, using ReastAPI: [test-project.io](https://sergittko.github.io/test-pet-project/)
 ---
 <!--
