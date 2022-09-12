@@ -1,7 +1,7 @@
 # 👋Hi there, my name is **Sergio Diorov**!
 ## I'm beginner *Front-End developer* from Ukraine, Kyiv.
 ### Languages and technologies:
-![JavaScript](https://img.shields.io/badge/-JavaScript-2b2b2b?style=flat&logo=JavaScript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=flat&logo=JavaScript)
 ![ReactJS](https://img.shields.io/badge/-ReactJS-2b2b2b?style=flat&logo=ReactJS)
 ![Redux](https://img.shields.io/badge/-Redux-2b2b2b?style=flat&logo=Redux)
 ![HTML](https://img.shields.io/badge/-HTML-2b2b2b?style=flat&logo=HTML)
