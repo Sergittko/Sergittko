@@ -1,5 +1,8 @@
-# Hi there 👋
-
+# 👋Hi there, my name is **Sergio Diorov**!
+## I'm beginner *Front-End developer* from Ukraine, Kyiv.
+---
+### Languages and technologies:
+ [![JavaScript](https://img.shields.io/badge/-javasctipt-ff0000?style=flat&logo=javascript)]
 <!--
 **Sergittko/Sergittko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
