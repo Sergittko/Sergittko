@@ -8,8 +8,10 @@
 ![CSS](https://img.shields.io/badge/-CSS-464f5c?style=flat&logo=CSS3)
 ![SCSS](https://img.shields.io/badge/-SCSS-464f5c?style=flat&logo=Sass)
 ![RestAPI](https://img.shields.io/badge/-RestAPI-464f5c?style=flat)
+
 ### 📧My mail: derov180214@gmail.com
 ### ✌🏼Me in instagram: @sergio_d_10
+---
 ### 👾My projects on GitHub pages:
 *Adaptive layout, using ReastAPI: [test-project.io](https://sergittko.github.io/test-pet-project/)
 <!--
