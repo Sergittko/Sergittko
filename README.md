@@ -14,4 +14,4 @@
 #### :v:Me in telegram: @sergitto
 #### My projects on GitHub Pages:
 * Adaptive layout, using ReastAPI: [test-project.io](https://sergittko.github.io/test-pet-project/)
-* Adaptive layout, using ReastAPI: [test-project.io](https://sergittko.github.io/memory-game/)
+* Memory Game: [test-project.io](https://sergittko.github.io/memory-game/)
