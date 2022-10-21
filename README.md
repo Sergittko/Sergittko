@@ -13,6 +13,6 @@
 #### :v:Me in instagram: @sergio_d_10
 #### :v:Me in telegram: @sergitto
 #### My projects on GitHub Pages:
-* Adaptive layout, using ReastAPI: [test-project.io](https://sergittko.github.io/test-pet-project/)
+* Adaptive layout, using RestAPI: [test-project.io](https://sergittko.github.io/test-pet-project/)
 * Memory Game: [memory-game.io](https://sergittko.github.io/memory-game/)
 * ToDo List: [to-do-list.io](https://sergittko.github.io/to-do-list/)
