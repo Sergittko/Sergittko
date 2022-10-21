@@ -15,3 +15,4 @@
 #### My projects on GitHub Pages:
 * Adaptive layout, using ReastAPI: [test-project.io](https://sergittko.github.io/test-pet-project/)
 * Memory Game: [memory-game.io](https://sergittko.github.io/memory-game/)
+* ToDo List: [memory-game.io](https://sergittko.github.io/to-do-list/)
