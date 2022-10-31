@@ -10,7 +10,7 @@
 ![RestAPI](https://img.shields.io/badge/-RestAPI-464f5c?style=flat)
 ---
 #### :e-mail:My mail: derov180214@gmail.com
-#### :v:My LinkedIn: https://www.linkedin.com/in/sergiy-diorov-673a59254/
+#### :v:My LinkedIn: [Sergiy Diorov](https://www.linkedin.com/in/sergiy-diorov-673a59254/)
 #### :v:Me in instagram: @sergio_d_10
 #### :v:Me in telegram: @sergitto
 #### My projects on GitHub Pages:
