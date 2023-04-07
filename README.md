@@ -1,5 +1,5 @@
 # :wave:Hi there, my name is **Sergio Diorov**!
-## I'm beginner *Front-End developer* from Ukraine.
+## I'm *Front-End developer* from Ukraine.
 ### Languages and technologies:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-464f5c?style=flat&logo=JavaScript)
 ![ReactJS](https://img.shields.io/badge/-ReactJS-464f5c?style=flat&logo=React)
