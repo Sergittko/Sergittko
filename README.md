@@ -7,6 +7,14 @@ responsive and scalable web and mobile applications.
 
 I specialize in:
 
+<img
+  src="https://github.com/user-attachments/assets/fd7e15e9-4eac-4a69-aa7f-bcc35b555921"
+  alt="image"
+  width="220" 
+  height="170"
+  align="right"
+/>
+
 - ⚛️ React, Next.js, TypeScript, NodeJS
 - 🏗️ Frontend architecture
 - 🔄 State management
@@ -67,9 +75,9 @@ I specialize in:
 ---
 
 ### 🚀 PET Projects
-* Adaptive layout, using RestAPI: [test-project.io](https://sergittko.github.io/test-pet-project/)
+* Movies Platform (FE+BE): [movies-platform.app](https://movie-platform-frontend-henna.vercel.app/)
+* Sneakers Shop: [sneaker-shop.io](https://sergittko.github.io/sneaker_shop/)
 * Memory Game: [memory-game.io](https://sergittko.github.io/memory-game/)
 * ToDo List: [to-do-list.io](https://sergittko.github.io/to-do-list/)
-* Sneakers Shop: [sneaker-shop.io](https://sergittko.github.io/sneaker_shop/)
 * Kanban board for GIT issues: [kanban-board.io](https://sergittko.github.io/kanban-board/)
-
+* Adaptive layout, using RestAPI: [test-project.io](https://sergittko.github.io/test-pet-project/)
