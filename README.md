@@ -73,10 +73,11 @@ I specialize in:
 
 ---
 
-### 🚀 PET Projects
-* Movies Platform (FE+BE): [movies-platform.app](https://movie-platform-frontend-henna.vercel.app/)
-* Sneakers Shop: [sneaker-shop.io](https://sergittko.github.io/sneaker_shop/)
-* Memory Game: [memory-game.io](https://sergittko.github.io/memory-game/)
-* ToDo List: [to-do-list.io](https://sergittko.github.io/to-do-list/)
-* Kanban board for GIT issues: [kanban-board.io](https://sergittko.github.io/kanban-board/)
-* Adaptive layout, using RestAPI: [test-project.io](https://sergittko.github.io/test-pet-project/)
+### 🚀 Pet Projects — Live Demo
+
+- **Movie Platform** (Full-Stack): [movies-platform.app](https://movie-platform-frontend-henna.vercel.app/)
+- **Sneakers Shop**: [sneaker-shop.io](https://sergittko.github.io/sneaker_shop/)
+- **Memory Game**: [memory-game.io](https://sergittko.github.io/memory-game/)
+- **ToDo List**: [to-do-list.io](https://sergittko.github.io/to-do-list/)
+- **Kanban Board**: [kanban-board.io](https://sergittko.github.io/kanban-board/)
+- **Adaptive Layout**, using RestAPI: [test-project.io](https://sergittko.github.io/test-pet-project/)
