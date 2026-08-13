@@ -40,11 +40,10 @@ I specialize in:
 ![ExpressJS](https://img.shields.io/badge/-ExpressJS-464f5c?style=flat&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-464f5c?logo=nestjs&style=flat)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-464f5c?style=flat&logo=mongodb&logoColor=00dd60)
-![NPM](https://img.shields.io/badge/-NPM-464f5c?style=flat&logo=npm&logoColor=c53635)
-![RestAPI](https://img.shields.io/badge/-RestAPI-464f5c?style=flat)
+![Prisma ORM](https://img.shields.io/badge/PrismaORM-464f5c?logo=prisma&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-464f5c?logo=Supabase&style=flat)
 ![Firebase](https://img.shields.io/badge/Firebase-464f5c?logo=Firebase&logoColor=white)
-![Prisma ORM](https://img.shields.io/badge/PrismaORM-464f5c?logo=prisma&logoColor=white)
+![RestAPI](https://img.shields.io/badge/-RestAPI-464f5c?style=flat)
 
 ![AJAX](https://img.shields.io/badge/-AJAX-464f5c?style=flat)
 ![WebSockets](https://img.shields.io/badge/WebSockets-464f5c)
@@ -62,6 +61,9 @@ I specialize in:
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind-464f5c?style=flat&logo=tailwind-css)
 ![Docker](https://img.shields.io/badge/-Docker-464f5c?style=flat&logo=docker)
 ![Postman](https://img.shields.io/badge/-Postman-464f5c?style=flat&logo=postman)
+![NPM](https://img.shields.io/badge/-NPM-464f5c?style=flat&logo=npm&logoColor=c53635)
+![PNPM](https://img.shields.io/badge/-PNPM-464f5c?style=flat&logo=pnpm&logoColor=c53635)
+![YARN](https://img.shields.io/badge/-YARN-464f5c?style=flat&logo=yarn&logoColor=c53635)
 
 ---
 
