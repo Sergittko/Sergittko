@@ -55,12 +55,11 @@ I specialize in:
 ![Redux Toolkit / RTK Query](https://img.shields.io/badge/-ReduxToolkit-464f5c?style=flat&logo=Redux)
 ![Axios](https://img.shields.io/badge/-Axios-464f5c?style=flat&logo=axios&logoColor=5a2ae4)
 
+![HTML](https://img.shields.io/badge/-HTML-464f5c?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-464f5c?style=flat&logo=CSS)
+![SCSS](https://img.shields.io/badge/-SCSS-464f5c?style=flat&logo=Sass&logoColor=cc6699)
 ![MaterialUI](https://img.shields.io/badge/-Material%20UI-464f5c?style=flat&logo=mui&logoColor=007fff)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind-464f5c?style=flat&logo=tailwind-css)
-![SCSS](https://img.shields.io/badge/-SCSS-464f5c?style=flat&logo=Sass&logoColor=cc6699)
-![HTML](https://img.shields.io/badge/-HTML-464f5c?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-464f5c?style=flat&logo=CSS3)
-![SCSS](https://img.shields.io/badge/-SCSS-464f5c?style=flat&logo=Sass)
 ![Docker](https://img.shields.io/badge/-Docker-464f5c?style=flat&logo=docker)
 ![Postman](https://img.shields.io/badge/-Postman-464f5c?style=flat&logo=postman)
 
